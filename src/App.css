@@ -1,0 +1,7 @@
+body {
+    background-color: hsl(0, 0%, 21%);
+}
+
+.hero-body > p.title {
+  color: hsl(0, 0%, 96%);
+}
